@@ -1,0 +1,3 @@
+django/виртуальное пространство/pip- http://python-teach.ru/veb-programmirovanie/ustanovka-django-na-windows/
+
+ide- https://www.jetbrains.com/pycharm/
